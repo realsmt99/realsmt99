@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi Ninjas, I'm Menadi Mohamed Amine</h1>
+<h1 align="center">Hi Ninjas, I'm Menadi Amine</h1>
 <h3 align="center">A future Homeless Engineer :(</h3>
 
 - 🌱 I’m currently learning **Physics**
