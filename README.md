@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi Ninjas, I'm Menadi Amine</h1>
-<h3 align="center">A future Homeless Engineer :(</h3>
+<h3 align="center">Network and Computer systems Student(</h3>
 
-- 🌱 I’m currently learning **Physics**
+- 🌱 I’m currently learning **Math**
 
 - 💬 Ask me about **Flutter, golang, js**
 
