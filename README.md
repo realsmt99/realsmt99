@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **medaminemenadi@gmail.com**
 
-- I’m Currently working as [Freelancer in software engineering](Freelancer in software engineering)
-
 - ⚡ Fun fact **I'm a Hackathon addict – give me a challenge, and I’ll probably overcomplicate it for fun.**
 
 <h3 align="left">Connect with me:</h3>
