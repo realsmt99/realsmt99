@@ -27,36 +27,6 @@ I leverage expertise in **mathematics**, **algorithms**, and **applied AI** to d
 
 ---
 
-### Experience
-
-**Product Builder** — Modern IT Solutions & SaaS projects *(2023 – Present)*
-- Scaled e-learning platforms (**ZedAcademy**, **L'Ondefoc**) past **100,000** active users
-- Built intelligent SaaS products (e.g. Brandi) orchestrating autonomous agents for user impact
-
-**Data & Automation Engineering Intern** — Djezzy *(2024)*
-- Analyzed network & user behavior with advanced SQL on complex datasets (**GCP**)
-- Built internal automation tools that boosted technical team productivity
-
----
-
-### Featured projects & hackathons
-
-| Project | Role | Highlight |
-|---|---|---|
-| **MemScale** | Applied AI Engineer | Long-term AI memory architecture — MCP servers, tool calling, multi-session context |
-| **Brandili** | Product Builder & Applied AI | AI visual-identity SaaS (logos, brand systems) via multi-model agent orchestration |
-| **GTM Anthropic Hackathon** | Applied AI Engineer | **Top 8** — autonomous ICP extraction & generative lead/outreach pipelines |
-| **ALCPC** | Competitive Programming | **National winner** · MENA regional finalist |
-| **Insight** — Innov Hack Paris | AI / Data | **3rd place** — intelligent assistants with fine-tuning & RAG |
-
----
-
-### Education
-
-- **Master — Computer & Autonomous Systems (Data)** · Université Paris-Saclay · 2025 – 2027
-- **Engineering cycle (CS prep)** · Université Saad Dahleb Blida 1 · Math, Algorithms, Systems · 2022 – 2024
-
----
 
 ### Tech stack
 
