@@ -26,17 +26,7 @@ I leverage expertise in **mathematics**, **algorithms**, and **applied AI** to d
 - 📫 Reach me at **medaminemenadi@gmail.com**
 
 ---
-
-
-### Tech stack
-
-**Languages:** Python · Java · C++ · Golang (Gin) · SQL · TypeScript · Dart · Bash · PostgreSQL
-
-**Platforms & tools:** GCP · S3 · ETL/ELT · Docker · React · Next.js · Flutter · Streamlit · Git · CI/CD
-
-**Applied AI & ML:** Context Engineering · MCP · Tool Calling · Agents (LangChain) · RAG · Prompting · LLM (Anthropic, OpenAI, Vision) · PyTorch · Scikit-learn
-
-**Languages spoken:** French (C1) · English (C1) · Arabic (native)
+I enjoy developing using those :) 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
